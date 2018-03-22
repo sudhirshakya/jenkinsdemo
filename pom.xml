@@ -38,7 +38,7 @@
     <modules>
         <module>gameon-core</module>
         <module>gameon-rest</module>
-        <module>gameon-rest-st</module>
+        <!-- <module>gameon-rest-st</module> -->
         <module>gameon-swagger</module>
         <module>gameon-web</module>
     </modules>
